@@ -1,0 +1,10 @@
+# Dữ liệu người dùng, khoá API, file build
+**/AgentyData/
+**/config.json
+**/.venv/
+**/build/
+**/dist/
+**/*.spec
+**/__pycache__/
+**/screenshot.png
+build.log

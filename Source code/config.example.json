@@ -1,0 +1,6 @@
+{
+  "base_url": "https://your-provider.example.com/v1",
+  "api_key": "",
+  "default_chat_model": "gpt-6.1-sol",
+  "default_image_model": "gpt-image-2.5"
+}

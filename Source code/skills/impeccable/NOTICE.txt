@@ -1,0 +1,3 @@
+Skill "impeccable" được phát hành theo Apache License 2.0 (khai báo trong SKILL.md).
+Bản trong repo này đã bỏ thư mục scripts/ vì ứng dụng không chạy được các script đó; nội dung còn lại giữ nguyên.
+Toàn văn giấy phép: https://www.apache.org/licenses/LICENSE-2.0
